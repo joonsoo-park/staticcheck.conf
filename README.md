@@ -2,5 +2,5 @@
 go staticcheck configuration
 
 ```
-checks = ["all", "-S1002"]
+checks = ["inherits", "-S1002"]
 ```
